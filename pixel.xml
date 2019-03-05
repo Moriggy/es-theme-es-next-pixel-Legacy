@@ -100,7 +100,7 @@
 			<selectorColor>ffffff</selectorColor>
 			<selectedColor>222222</selectedColor>
 			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>ffffff</secondaryColor>
+			<secondaryColor>00a4e4</secondaryColor>
 			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
 			<fontSize>0.024</fontSize>
 			<forceUppercase>1</forceUppercase>
