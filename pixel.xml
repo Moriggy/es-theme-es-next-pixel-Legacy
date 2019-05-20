@@ -19,7 +19,6 @@
 		
 			<carousel name="systemcarousel">
 				<type>horizontal</type>
-				<!-- <logoAlignment>middle</logoAlignment>          -->
 				<pos>0 0.405</pos>
 				<size>1 0.185</size>
 				<logoScale>2.5</logoScale>
